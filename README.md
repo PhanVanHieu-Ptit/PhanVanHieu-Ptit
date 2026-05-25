@@ -70,17 +70,17 @@
 </td>
 <td width="50%">
 
-<!-- ### 🛠️ [Project Beta](https://github.com/PhanVanHieu-Ptit/project-beta)
-> *Mô tả ngắn gọn bằng tiếng Anh — what problem it solves*
+### 🛠️ [Room planner](https://github.com/PhanVanHieu-Ptit/Room_Planner)
+> *A browser-based 2D room layout tool that lets you drag, drop, and arrange furniture on a floor plan — no installation, no account, just open and design. Built as a personal project to explore Vue 3's Composition API at scale, with a focus on clean state management and smooth interactive UX.*
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Stars](https://img.shields.io/github/stars/PhanVanHieu-Ptit/project-beta?style=flat-square&color=yellow)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+<!-- ![Stars](https://img.shields.io/github/stars/PhanVanHieu-Ptit/project-beta?style=flat-square&color=yellow) -->
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<!-- <td width="50%">
 
 ### 📦 [Open Source Lib](https://github.com/PhanVanHieu-Ptit/oss-lib)
 > *A TypeScript utility library with zero dependencies*
@@ -94,9 +94,9 @@
 ### ✍️ [Technical Blog](https://yourblog.dev)
 > *Sharing knowledge about TypeScript, system design and engineering culture*
 
-![Blog](https://img.shields.io/badge/Read-Articles-6366F1?style=flat-square&logo=hashnode&logoColor=white) -->
+![Blog](https://img.shields.io/badge/Read-Articles-6366F1?style=flat-square&logo=hashnode&logoColor=white)
 
-</td>
+</td> -->
 </tr>
 </table>
 
