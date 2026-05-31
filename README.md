@@ -80,6 +80,17 @@
 </td>
 </tr>
 <tr>
+
+<td width="50%">
+
+### 🤖 [Robot-Visualizer](https://github.com/PhanVanHieu-Ptit/Robot-Visualizer)
+> *Browser-native digital twin simulating 50+ concurrent autonomous mobile robots (AMRs) inside a warehouse — rendered at 60 fps with Three.js instanced geometry, a tick-based FSM telemetry engine, and optional live Socket.IO data streaming.*
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+[![Three.js](https://img.shields.io/badge/Three.js-r168-black?logo=threedotjs)](https://threejs.org)
+
+</td>
+  
 <!-- <td width="50%">
 
 ### 📦 [Open Source Lib](https://github.com/PhanVanHieu-Ptit/oss-lib)
