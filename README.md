@@ -125,7 +125,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=PhanVanHieu-Ptit&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=PhanVanHieu-Ptit&theme=tokyonight&hide_border=true&cache_seconds=1)](https://git.io/streak-stats)
 
 </div>
 
